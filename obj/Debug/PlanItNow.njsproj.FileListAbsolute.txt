@@ -1,0 +1,2 @@
+C:\Users\hanta\Desktop\VSProjects\PlanItNow\PlanItNow\obj\Debug\PlanItNow.njsprojResolveAssemblyReference.cache
+C:\Users\hanta\Desktop\VSProjects\PlanItNow\PlanItNow\bin\Microsoft.NodejsTools.WebRole.dll
