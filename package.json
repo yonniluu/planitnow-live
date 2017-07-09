@@ -23,6 +23,7 @@
     "font-awesome-animation": "^0.0.10",
     "font-awesome-assets": "^0.0.7",
     "font-awesome-icon-list": "^1.0.2",
-    "font-awesome-icons": "^1.4.2"
+    "font-awesome-icons": "^1.4.2",
+    "react": "^15.6.1"
   }
 }
